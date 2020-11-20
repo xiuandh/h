@@ -6,6 +6,7 @@ let sum = function (nums, target) {
     while (i--) {//5
         for (let x  = i-1; x > 0; x--) {//4 3 2 1
             console.log()
+            console.log('two forst')
         }
     }
     
