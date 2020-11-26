@@ -8,7 +8,7 @@ let sum = function (nums, target) {
             console.log()
             console.log('two forst')
             console.log('vscodeTest');
+            console.log('vvv')
         }
     }
-    
 }()
